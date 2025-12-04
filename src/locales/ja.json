@@ -1,0 +1,34 @@
+{
+    "contextMenu": {
+        "addToFavorites": "お気に入りに追加",
+        "removeFromFavorites": "お気に入りから外す",
+        "addToIgnore": "ignoreに追加",
+        "openFolder": "フォルダを開く"
+    },
+    "settings": {
+        "title": "設定",
+        "language": "言語",
+        "ignoreList": "Ignoreリスト",
+        "ignoreDescription": "これらの文字列を含むフォルダは非表示になります。",
+        "addPattern": "パターンを追加",
+        "placeholder": "フォルダ名のパターンを入力",
+        "remove": "削除",
+        "dangerZone": "危険な操作",
+        "resetApp": "アプリを初期化"
+    },
+    "header": {
+        "searchPlaceholder": "検索...",
+        "noFolderSelected": "フォルダが選択されていません"
+    },
+    "library": {
+        "noResultsFound": "検索結果が見つかりません。",
+        "noFoldersFound": "フォルダが見つかりません。ディレクトリを開いて開始してください。",
+        "openFolder": "フォルダを開く"
+    },
+    "reader": {
+        "back": "戻る",
+        "index": "索引",
+        "firstPage": "最初のページ",
+        "lastPage": "最後のページ"
+    }
+}

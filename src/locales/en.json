@@ -1,0 +1,34 @@
+{
+    "contextMenu": {
+        "addToFavorites": "Add to Favorites",
+        "removeFromFavorites": "Remove from Favorites",
+        "addToIgnore": "Add to Ignore",
+        "openFolder": "Open Folder"
+    },
+    "settings": {
+        "title": "Settings",
+        "language": "Language",
+        "ignoreList": "Ignore List",
+        "ignoreDescription": "Folders containing these strings will be hidden.",
+        "addPattern": "Add Pattern",
+        "placeholder": "Enter folder name pattern",
+        "remove": "Remove",
+        "dangerZone": "Danger Zone",
+        "resetApp": "Reset App Initialization"
+    },
+    "header": {
+        "searchPlaceholder": "Search...",
+        "noFolderSelected": "No folder selected"
+    },
+    "library": {
+        "noResultsFound": "No results found.",
+        "noFoldersFound": "No folders found. Open a directory to start.",
+        "openFolder": "Open Folder"
+    },
+    "reader": {
+        "back": "Back",
+        "index": "Index",
+        "firstPage": "First Page",
+        "lastPage": "Last Page"
+    }
+}
